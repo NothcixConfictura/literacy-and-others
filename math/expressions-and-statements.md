@@ -45,7 +45,7 @@ Yeah, these are all expressions. Let's look at each of them:
     
 - > $3 + 3$
     
-  This is called a **binary operation**; it's an expression that operates on 2 sub-expressions (in this case, $3$ and $3$) with an operator (in this case, $+$). Actually, you might be wondering, what about $1 + 2 - 3$? Or $1 + 2 + 3 + 4$? There can't possibly any specific names of operations for each of these, right?
+  This is called a **binary operation**; it's an expression that operates on 2 sub-expressions (in this case, $3$ and $3$) with an operator (in this case, $+$). Actually, you might be wondering, what about $1 + 2 - 3$? Or $1 + 2 + 3 + 4$? There can't possibly be any specific names of operations for each of these, right?
     
   Yeah, correct. To simplify it, we can call it **$N$-ary operation**, where $N$ is the amount of expressions there are. \
   For example:
